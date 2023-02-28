@@ -1,10 +1,11 @@
 # Tiffany England's Professional Portfolio
 
-//GITHUB Link:
+//GITHUB Link: https://github.com/Trengland/My-Professional-Portfolio
 
-//LIVE Link: 
+//LIVE Link: https://trengland.github.io/My-Professional-Portfolio/
 
-//Screenshot - 
+//Screenshot - ![image](https://user-images.githubusercontent.com/122329399/221998519-c00d02e4-1b45-4069-aca0-5896bd6a4e0b.png)
+
 
 
 Steps Taken:
