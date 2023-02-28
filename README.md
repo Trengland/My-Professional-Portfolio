@@ -36,11 +36,9 @@ Steps Taken:
 //completed CSS - added images
 
 
-//Internal image links:
+//Image links:
 //C:\Users\Tiffany\Pictures\Relaxation.jpg
-//C:\Users\Tiffany\Pictures\pexels-nicollazzi-xiong-668353.jpg
-//C:\Users\Tiffany\Pictures\pexels-ylanite-koppens-1809347.jpg
-//C:\Users\Tiffany\Pictures\pexels-lisa-fotios-1444417.jpg
-//C:\Users\Tiffany\Pictures\pexels-madison-inouye-1405762.jpg
-//C:\Users\Tiffany\Pictures\pexels-nicollazzi-xiong-668353.jpg
-//C:\Users\Tiffany\Downloads\20220923_165927_remastered.jpg
+//https://user-images.githubusercontent.com/122329399/220512227-be936478-e44c-433d-98e2-58a12ad1e87e.png
+//https://user-images.githubusercontent.com/122329399/221688151-d932e1d9-502d-4fcf-bbbc-1c4cefd8e8c8.png
+//https://user-images.githubusercontent.com/122329399/218633688-61498578-322a-44e7-88ff-3624d2010d04.png
+//https://user-images.githubusercontent.com/122329399/221997125-0b468fce-b59d-40d9-b8a1-59c5f983d9c4.png
