@@ -1,6 +1,13 @@
-# Homework-2
-/ Module 2 Challenge - Professional Portfolio
+# Tiffany England's Professional Portfolio
 
+//GITHUB Link:
+
+//LIVE Link: 
+
+//Screenshot - 
+
+
+Steps Taken:
 // Created a basic html outline for my website. Then I added basic CSS (text structure, color, etc.)
 
 // added href attributes to all necessary sections, a's, articles, etc.
@@ -25,6 +32,9 @@
 
 //created a div tag specific top the footer to adjust/add content there in the future
 
+//completed CSS - added images
+
+
 //Internal image links:
 //C:\Users\Tiffany\Pictures\Relaxation.jpg
 //C:\Users\Tiffany\Pictures\pexels-nicollazzi-xiong-668353.jpg
@@ -33,9 +43,3 @@
 //C:\Users\Tiffany\Pictures\pexels-madison-inouye-1405762.jpg
 //C:\Users\Tiffany\Pictures\pexels-nicollazzi-xiong-668353.jpg
 //C:\Users\Tiffany\Downloads\20220923_165927_remastered.jpg
-
-//completed CSS - added images
-
-//GITHUB Link:
-
-//LIVE Link: 

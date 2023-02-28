@@ -82,7 +82,7 @@ nav a:last-child {
 } 
 
 h2 {
-    color: var(--primary);
+    color: var(--tertiary);
 }
 
 
@@ -105,7 +105,7 @@ main {
    background-size: cover;
    background-position: center;
    min-height: 30vh;
-   color:var(--light);
+   color:var(--lightish);
    padding: 2% 6%;
    display:flex;
    justify-content: flex-end;
@@ -144,16 +144,12 @@ main {
 }
 
 
-#about img {
-    float: left; padding: 1 15px 15px 0;
-}
-
-
 .flex-container {
     display: flex;
     flex-wrap:wrap;
     justify-content: center;
 }
+
 
 .flex-item {
     border:5px solid var(--secondary);
@@ -173,7 +169,7 @@ main {
 }
 
 .flex-item:first-child {
-    min-height: 400px;
+    min-height: 350px;
     flex-basis: 100%;
 }
 
@@ -191,19 +187,20 @@ main {
 }
 
 .work1 {
-    background-image: url("./pexels-madison-inouye-1405762.jpg");
+    background-image: url("https://user-images.githubusercontent.com/122329399/220512227-be936478-e44c-433d-98e2-58a12ad1e87e.png");
+    background-repeat: no-repeat;
 }
 
 .work2 {
-    background-image: url("./pexels-lisa-fotios-1444417.jpg");
+    background-image: url("https://user-images.githubusercontent.com/122329399/221688151-d932e1d9-502d-4fcf-bbbc-1c4cefd8e8c8.png");
 }
 
 .work3 {
-    background-image: url("./pexels-ylanite-koppens-1809347.jpg");
+    background-image: url("https://user-images.githubusercontent.com/122329399/218633688-61498578-322a-44e7-88ff-3624d2010d04.png");
 }
 
 .work4 {
-    background-image: url("./pexels-nicollazzi-xiong-668353.jpg");
+    background-image: url("https://user-images.githubusercontent.com/122329399/221997125-0b468fce-b59d-40d9-b8a1-59c5f983d9c4.png");
 }
 
 .work5 {
@@ -253,12 +250,8 @@ footer {
     text-align: center;
 }
 
-
-
-#bioimage {
-    width: 10%;
-    height: 50%;
-    border: 1px solid var(--tertiary);
+#test {
+    padding-top: 85px;
 }
 
 
