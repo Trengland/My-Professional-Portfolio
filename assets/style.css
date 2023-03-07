@@ -137,12 +137,21 @@ main {
     flex: 0 0 77%;
 }
 
+
 #about {
     justify-content: flex;
     flex-wrap: wrap;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
+#profileimage {
+    position:relative;
+    float: left;
+    width:160px;
+    height:175px;
+    bottom: 40px;
+}
 
 .flex-container {
     display: flex;
@@ -204,7 +213,7 @@ main {
 }
 
 .work5 {
-    background-image: url("./Relaxation.jpg");
+    background-image: url("https://user-images.githubusercontent.com/122329399/223573775-5497b06d-b9bd-4204-97f3-0b10505cc2fb.png");
 }
 
 
