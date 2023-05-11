@@ -217,7 +217,7 @@ main {
 }
 
 .work2 {
-    background-image: url("https://user-images.githubusercontent.com/122329399/221688151-d932e1d9-502d-4fcf-bbbc-1c4cefd8e8c8.png");
+    background-image: url("https://github-production-user-asset-6210df.s3.amazonaws.com/122329399/237227617-9a4df9a6-64a6-4753-a518-682473e8198f.png");
 }
 
 .work3 {
@@ -240,6 +240,9 @@ main {
     background-image: url("https://user-images.githubusercontent.com/122329399/224814764-8705afde-dc67-49fe-ab98-7aea5b0f97a1.png")
 }
 
+.work8 {
+    background-image: url("https://user-images.githubusercontent.com/122329399/221688151-d932e1d9-502d-4fcf-bbbc-1c4cefd8e8c8.png")
+}
 
 #contact address {
     display:flex;
