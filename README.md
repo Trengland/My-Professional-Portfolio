@@ -4,7 +4,7 @@
 
 //LIVE Link: https://trengland.github.io/My-Professional-Portfolio/
 
-//Screenshot -![image](https://user-images.githubusercontent.com/122329399/224826815-6f1ad546-a8af-4e80-b329-ad8d9c08d6cb.png)
+//Screenshot -![image](https://github.com/Trengland/My-Professional-Portfolio/assets/122329399/dc01a56b-822a-4c6f-822d-4536e37bf1ac)
 
 
 
